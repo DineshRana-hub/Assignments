@@ -1,0 +1,14 @@
+C:\C#\Assignments\CalculateElectricityBill\bin\Debug\net8.0\CalculateElectricityBill.exe
+C:\C#\Assignments\CalculateElectricityBill\bin\Debug\net8.0\CalculateElectricityBill.deps.json
+C:\C#\Assignments\CalculateElectricityBill\bin\Debug\net8.0\CalculateElectricityBill.runtimeconfig.json
+C:\C#\Assignments\CalculateElectricityBill\bin\Debug\net8.0\CalculateElectricityBill.dll
+C:\C#\Assignments\CalculateElectricityBill\bin\Debug\net8.0\CalculateElectricityBill.pdb
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.AssemblyInfoInputs.cache
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.AssemblyInfo.cs
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.csproj.CoreCompileInputs.cache
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.dll
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\refint\CalculateElectricityBill.dll
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.pdb
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\CalculateElectricityBill.genruntimeconfig.cache
+C:\C#\Assignments\CalculateElectricityBill\obj\Debug\net8.0\ref\CalculateElectricityBill.dll
