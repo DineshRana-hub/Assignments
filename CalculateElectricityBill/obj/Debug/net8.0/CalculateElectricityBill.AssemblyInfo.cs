@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateElectricityBill")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfb7d6350c6f979e9f0e7ec3dbded7d6c244385f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateElectricityBill")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateElectricityBill")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

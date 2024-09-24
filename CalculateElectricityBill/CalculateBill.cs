@@ -23,7 +23,7 @@ class CalculateBill{
 
     //     }
     //     else{
-    //           sum = unit * 50;
+    //           sum = 2000;
        
     //     }
 
@@ -44,7 +44,7 @@ class CalculateBill{
         break;
 
         case int n when (n>50 ):
-        sum=unit*50;
+        sum=2000;
         break;
 
         default:
