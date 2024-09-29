@@ -8,7 +8,7 @@ class CalculateBill{
     public void Calculate(){
         int sum=0;
 
-    // if else
+    // if else method
     //     if(unit>=1 && unit<=20){
     //        sum=100;
     //     }
@@ -28,8 +28,7 @@ class CalculateBill{
     //     }
 
 
-  //swich case
-      
+  //swich case method
         switch (unit){
         case int n when (n>=1  && n<=20):
         sum=100;
