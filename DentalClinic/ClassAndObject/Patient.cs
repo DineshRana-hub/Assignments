@@ -1,15 +1,21 @@
-class Patient(string n, DateTime dob, char g, string d):Person(n,dob,g)
+
+class Patient(string n, DateTime dob, char g, string p, DateTime A):Person(n,dob,g),IMedicine
 {
-  public string diseases=d;
+  public string Problem=p;
+  public DateTime Admission=A;
   public override void PrintDetails(){
     base.PrintDetails();
-    Console.WriteLine($"/t/t{diseases}")
+    Console.WriteLine($"\t\t{Admission}\t\t{Problem}");
   }
 
     public static void PrintHeader()
     {
-        var header = $"Name\t\tDate Of Birth\t\tGender\t\tDiseases";
+        var header = $"Name\t\tDate Of Birth\t\tGender\t\tAdmission Time\t\tProblem";
         Console.WriteLine(header);
     }
 
+    public List<string> Medicines()
+    {
+        throw new NotImplementedException();
+    }
 }
