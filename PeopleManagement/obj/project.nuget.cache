@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtvgtQCrWhE=",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Assignments\\PeopleManagement\\PeopleManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gadtola\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
