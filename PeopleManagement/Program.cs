@@ -6,6 +6,6 @@ Console.WriteLine("Hello, World!");
 
 
 PeopleReport peopleReport= new();
-//peopleReport.SaveMales();
-//peopleReport.SaveFemales();
+peopleReport.SaveMales();
+peopleReport.SaveFemales();
 peopleReport.SaveDotComUsers();

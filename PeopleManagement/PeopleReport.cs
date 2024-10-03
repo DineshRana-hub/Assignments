@@ -13,7 +13,7 @@ string path=@"C:\C#\Assignments\PeopleManagement\males.csv";
   var malelist=people.Where(Person=>Person.Sex=="Male").ToList();
    using (var writer = new StreamWriter(path))
         {
-            writer.WriteLine("Index,User ID,FirstName,LastName,Sex,,Email,Phone,Date Of Birth,Job Title"); // Write header
+            writer.WriteLine("Index,User ID,FirstName,LastName,Sex,,Email,Phone,DateOfBirth,Job Title"); // Write header
             
             foreach (var male in malelist)
             {
@@ -21,7 +21,7 @@ string path=@"C:\C#\Assignments\PeopleManagement\males.csv";
             }
         }
 
-        Console.WriteLine(" males have been saved to males.csv.");
+        Console.WriteLine(" males have been saved ");
     }
 
  
@@ -42,7 +42,7 @@ string path=@"C:\C#\Assignments\PeopleManagement\males.csv";
             }
         }
 
-        Console.WriteLine(" females have been saved to males.csv.");
+        Console.WriteLine(" females have been saved ");
 
     }
      public void SaveDotComUsers(){
@@ -61,7 +61,7 @@ string path=@"C:\C#\Assignments\PeopleManagement\males.csv";
             }
         }
 
-        Console.WriteLine("dotcumuser have been saved to males.csv.");
+        Console.WriteLine("dotcumuser have been saved ");
 
 
     }
